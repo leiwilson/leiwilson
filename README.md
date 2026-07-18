@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Senior Software Engineer specialising in distributed backend systems, event-driven architecture, and cloud-native services.
+Specializing in **distributed backend systems**, **event-driven architecture**, and **cloud-native services**.
 
 ## My Skills
 
